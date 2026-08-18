@@ -19,7 +19,7 @@ The **Microplate Reader & Analyzer Controller Board** is a precision measurement
 
 ## 📂 Repository Structure
 
-- 📄 [READER&SHAKE-MAIN-schematics.pdf](READER%26SHAKE-MAIN-schematics.pdf) — Full Circuit Schematic Diagram
+- 📄 [READER&SHAKE-MAIN-schematic.pdf](READER%26SHAKE-MAIN-schematic.pdf) — Full Circuit Schematic Diagram
 - 📊 [BOM-READER&SHAKE-MAIN.xlsx](BOM-READER%26SHAKE-MAIN.xlsx) — Complete Bill of Materials (Component List)
 - 🖼️ [3d_top_view.png](3d_top_view.png) — 3D PCB Render (Top View)
 - 🖼️ [3d_bottom_view.png](3d_bottom_view.png) — 3D PCB Render (Bottom View)
@@ -30,7 +30,7 @@ The **Microplate Reader & Analyzer Controller Board** is a precision measurement
 
 | Schematic Diagram | Bill of Materials (BOM) |
 | :--- | :--- |
-| 📄 [Download Schematic PDF](READER%26SHAKE-MAIN-schematics.pdf) | 📊 [View Bill of Materials (BOM)](BOM-READER%26SHAKE-MAIN.xlsx) |
+| 📄 [Download Schematic PDF](READER%26SHAKE-MAIN-schematic.pdf) | 📊 [View Bill of Materials (BOM)](BOM-READER%26SHAKE-MAIN.xlsx) |
 
 ---
 
