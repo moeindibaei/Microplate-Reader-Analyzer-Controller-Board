@@ -19,18 +19,18 @@ The **Microplate Reader & Analyzer Controller Board** is a precision measurement
 
 ## 📂 Repository Structure
 
-- 📄 [READER_Board_Schematic.pdf](READER_Board_Schematic.pdf) — Full Circuit Schematic Diagram
-- 📊 [BOM_READER_Board.xlsx](BOM_READER_Board.xlsx) — Complete Bill of Materials (Component List)
-- 🖼️ [3d_top_view_3.jpg](3d_top_view_3.jpg) — 3D PCB Render (Top View)
-- 🖼️ [3d_bottom_view_3.png](3d_bottom_view_3.png) — 3D PCB Render (Bottom View)
-- 🖼️ [pcb_layout_top_3.png](pcb_layout_top_3.png) — PCB Top Layer Copper & Silkscreen
-- 🖼️ [pcb_layout-bottom_2.png](pcb_layout-bottom_2.png) — PCB Bottom Layer Copper & Silkscreen
+- 📄 [READER&SHAKE-MAIN-schematics.pdf](READER%26SHAKE-MAIN-schematics.pdf) — Full Circuit Schematic Diagram
+- 📊 [BOM-READER&SHAKE-MAIN.xlsx](BOM-READER%26SHAKE-MAIN.xlsx) — Complete Bill of Materials (Component List)
+- 🖼️ [3d_top_view.png](3d_top_view.png) — 3D PCB Render (Top View)
+- 🖼️ [3d_bottom_view.png](3d_bottom_view.png) — 3D PCB Render (Bottom View)
+- 🖼️ [pcb_layout_top.png](pcb_layout_top.png) — PCB Top Layer Copper & Silkscreen
+- 🖼️ [pcb_layout-bottom.png](pcb_layout-bottom.png) — PCB Bottom Layer Copper & Silkscreen
 
 ---
 
 | Schematic Diagram | Bill of Materials (BOM) |
 | :--- | :--- |
-| 📄 [Download Schematic PDF](READER_Board_Schematic.pdf) | 📊 [View Bill of Materials (BOM)](BOM_READER_Board.xlsx) |
+| 📄 [Download Schematic PDF](READER%26SHAKE-MAIN-schematics.pdf) | 📊 [View Bill of Materials (BOM)](BOM-READER%26SHAKE-MAIN.xlsx) |
 
 ---
 
@@ -40,10 +40,10 @@ The **Microplate Reader & Analyzer Controller Board** is a precision measurement
 
 | Top View | Bottom View |
 | :---: | :---: |
-| ![3D Top View](3d_top_view_3.jpg) | ![3D Bottom View](3d_bottom_view_3.png) |
+| ![3D Top View](3d_top_view.png) | ![3D Bottom View](3d_bottom_view.png) |
 
 ### PCB Layout Design
 
 | Top Layer | Bottom Layer |
 | :---: | :---: |
-| ![Top Layer](pcb_layout_top_3.png) | ![Bottom Layer](pcb_layout-bottom_2.png) |
+| ![Top Layer](pcb_layout_top.png) | ![Bottom Layer](pcb_layout-bottom.png) |
